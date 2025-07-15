@@ -2,11 +2,17 @@
 
 This is a Python implementation of the Fifteen Puzzle, a game where the goal is to arrange the tiles in numerical order by sliding them to the around making use of the empty tile spot.
 
-## Play in Browser
+## How to Run Locally (Requires: Python3, Tkinter)
 
-Run the game directly in your browser using Replit:
-
-**[Play on Replit](https://replit.com/@hanarjahangiri/fifteen-game)**
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/yourusername/fifteen-game.git
+   cd fifteen-game
+   ```
+2. Run the game  
+   ```bash
+   python3 game.py
+   ```
 
 ---
 
@@ -25,14 +31,4 @@ Run the game directly in your browser using Replit:
 
 ---
 
-## How to Run Locally (Requires: Python3, Tkinter)
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/fifteen-game.git
-   cd fifteen-game
-   ```
-2. Run the game  
-   ```bash
-   python3 game.py
-   ```
+![Screenshot of the game](image.png)
