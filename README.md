@@ -6,7 +6,7 @@ This is a Python implementation of the Fifteen Puzzle, a game where the goal is 
 
 Run the game directly in your browser using Replit:
 
-**[Play on Replit](https://replit.com/@yourusername/fifteen-game)**
+**[Play on Replit](https://replit.com/@hanarjahangiri/fifteen-game)**
 
 ---
 
